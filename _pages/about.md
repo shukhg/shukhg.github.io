@@ -9,11 +9,14 @@ redirect_from:
 
 
 
-# Educational Background
+
+
+
+## Educational Background
 Starting from 2024, as a PhD candidate at Peking University.
 
 
-# Research Focus
+## Research Focus
 Large Language Models、Multimodal
 
 
