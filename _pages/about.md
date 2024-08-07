@@ -14,7 +14,6 @@ Starting from 2024, as a PhD candidate at Peking University.
 
 
 # Research Focus
-Large Language Models
-Multimodal
+Large Language Models、Multimodal
 
 
